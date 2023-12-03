@@ -22,8 +22,10 @@ Click : Ubuntu
 Click : main.yml
 Click : Building
 
-Username:   runneradmin
+Session : Xorg
+
+Username:   root
  
-Pass:      P@ssw0rd!
+Password:      admin
 
 ```

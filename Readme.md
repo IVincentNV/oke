@@ -1,5 +1,7 @@
 How to use : 
-```shhttps://github.com/levanderdev/vps2
+```sh
+Open
+https://github.com/levanderdev/vps2
 
 Click : fork
 

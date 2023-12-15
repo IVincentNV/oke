@@ -53,11 +53,6 @@ jobs:
           # Output the public IP address
           echo "Public IP Address: $public_ip"
 
-      - name: Run The Github
-      git clone https://github.com/botsbaid2/apasihngntd
-      cd apasihngntd
-      pip install -r requirements.txt
-
       - name: Keep Alive
         run: |
           # Add a long-running command to keep the workflow alive
